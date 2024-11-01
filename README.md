@@ -1,6 +1,6 @@
 # Computer-Vision-Projects
 
-**1. Hand Gesture-Based Screen Mode Switcher with OpenCV and MediaPipe**
+**1. Hand Gesture-Based Screen Mode Switcher with OpenCV and MediaPipe**(mode_change.py)
 
 This project uses OpenCV and MediaPipe to toggle between light and dark modes on a Windows system through simple hand gestures, providing an intuitive, hands-free interface to change screen modes.
 
